@@ -1,0 +1,16 @@
+.button{
+    width: 90px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.flip{
+    rotate: 180deg;
+}
+.item{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 10px;
+    border-radius: 20px;
+   background: rgb(219, 219, 219);
+}

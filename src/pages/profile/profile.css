@@ -1,0 +1,15 @@
+.profile{
+    width: 100%;
+}
+.profileWrapper{
+    width: 100%;
+    display: flex;
+}
+.profileLeft{
+    flex: 1;
+    background-color: red;
+}
+.profileRight{
+    flex: 4;
+    background-color: blue;
+}

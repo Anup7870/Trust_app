@@ -1,0 +1,9 @@
+.jobinfo{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin-bottom: 10px;
+}
+.courseCard img{
+    width: 100%;
+}

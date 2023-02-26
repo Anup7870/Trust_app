@@ -1,0 +1,56 @@
+.logo img{
+    width: 225px;
+}
+.digiInfo{
+    width: 100%;
+   
+}
+.digilockerInfo{
+    width: 100%;
+  
+}
+.digilockerInfoWrapper{
+    width: 33%;
+    margin: auto;
+    /* background-color: rgba(223, 205, 205, 0.623); */
+    padding: 20px;
+    border-radius: 10px;
+}
+.header p{
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+.mainInfo{
+    /* background-color: rgba(223, 205, 205, 0.623); */
+}
+.mainInfoHeader{
+    margin-bottom: 20px;
+    margin-top: 0;
+    font-size: 2rem;
+}
+.mainInfoAttention p{
+margin-bottom: 20px;
+}
+.mainInfoContant{
+    display: flex;
+    flex-direction: column;
+}
+.buttond{
+    display: flex;
+    align-items: center;
+    background-color: rgb(118, 83, 245);
+    width: 119px;
+    margin-top: 19px;
+    padding: 10px;
+    border-radius: 40px;
+    -webkit-box-shadow: -1px 8px 18px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 8px 18px -6px rgba(0,0,0,0.75);
+    box-shadow: -1px 8px 18px -6px rgba(0,0,0,0.75);
+    width: 142px;
+}
+.arrow{
+    color: white;
+}
+.buttond span{
+    color:  white;
+}

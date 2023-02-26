@@ -1,0 +1,51 @@
+.digiAllow{
+    width: 100%;
+    
+}
+.digiAllowWrapper{
+    width: 33%;
+    margin: auto;
+}
+
+.digiAllowWrapper h3{
+    font-weight: 500;
+    font-size: 2rem;
+    margin-top: 0;
+    text-align: left;
+}
+.digiAllowWrapper p{
+    color: rgb(167, 167, 167);
+    margin-top: 10px;
+}
+.aadhatInput h4{
+    font-weight: 400;
+}
+.aadhatInput h4{
+    margin-top: 20px;
+}
+.aadhatInput input{
+    /* margin-left: 20px; */
+    margin-top: 10px;
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+}
+.aadhatInput input:focus{
+    outline: none;
+}
+.buttonAadhar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(118, 83, 245);
+    width: 119px;
+    margin-top: 19px;
+    padding: 10px;
+    border-radius: 40px;
+    -webkit-box-shadow: -1px 8px 18px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 8px 18px -6px rgba(0,0,0,0.75);
+box-shadow: -1px 8px 18px -6px rgba(0,0,0,0.75);
+}
+.buttonAadhar span{
+    color: white;
+}
